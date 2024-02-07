@@ -27,9 +27,14 @@ Make sure you have the following installed on your machine:
     git clone https://github.com/bachewar-bhushan/BlogWeb.git
     ```
 
-2. **Install dependencies:**
+2. **Install project dependencies:**
     ```bash
-    cd BlogWeb
+    npm install
+    ```
+    
+ 3. **Install backend dependencies:**
+    ```bash
+    cd backend
     npm install
     ```
 
