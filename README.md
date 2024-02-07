@@ -42,7 +42,7 @@ Make sure you have the following installed on your machine:
 
 1. **Start the frontend development server:**
     ```bash
-    npm start
+    npm run dev
     ```
 
 2. **Start the Node.js server:**
